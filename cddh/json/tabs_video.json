@@ -1,34 +1,34 @@
 [
   {
     "title": "热门",
-    "url": "https://charging.666sdk.com/cddh/json/sub_remen.json"
+    "url": "https://charging.666sdk.com/cddh/json/1.json"
   },  
 {
     "title": "精选",
-    "url": "https://charging.666sdk.com/cddh/json/sub_jingxuan.json"
+    "url": "https://charging.666sdk.com/cddh/json/2.json"
   },
   {
     "title": "神奇",
-    "url": "https://charging.666sdk.com/cddh/json/sub_shenqi.json"
+    "url": "https://charging.666sdk.com/cddh/json/3.json"
   },
   {
     "title": "独特",
-    "url": "https://charging.666sdk.com/cddh/json/sub_dute.json"
+    "url": "https://charging.666sdk.com/cddh/json/4.json"
   },
   {
     "title": "别致",
-    "url": "https://charging.666sdk.com/cddh/json/sub_biezhi.json"
+    "url": "https://charging.666sdk.com/cddh/json/5.json"
   },
   {
     "title": "炫酷",
-    "url": "https://charging.666sdk.com/cddh/json/sub_xuanku.json"
+    "url": "https://charging.666sdk.com/cddh/json/6.json"
   },
   {
     "title": "自然",
-    "url": "https://charging.666sdk.com/cddh/json/sub_zirang.json"
+    "url": "https://charging.666sdk.com/cddh/json/7.json"
   },
   {
     "title": "乐趣",
-    "url": "hhttps://charging.666sdk.com/cddh/json/sub_lequ.json"
+    "url": "https://charging.666sdk.com/cddh/json/9.json"
   }
 ]
