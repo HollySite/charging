@@ -1,38 +1,43 @@
 [
   {
-    "title": "热门",
-    "url": "https://xxx.xxx.com/xxx/remen.json"
+    "thumb": "https://charging.666sdk.com/cddh/resource/preview/1_1.mov",
+    "decor": "",
+    "url": "https://charging.666sdk.com/cddh/resource/formal/1_1.mov"
   },
   {
-    "title": "热门",
-    "url": "https://charging.666sdk.com/json/sub_remen.json"
+    "thumb": "https://charging.666sdk.com/cddh/resource/preview/1_2.mov",
+    "decor": "",
+    "url": "https://charging.666sdk.com/cddh/resource/formal/1_2.mov"
+  },
+  {
+    "thumb": "https://charging.666sdk.com/cddh/resource/preview/1_3.mov",
+    "decor": "",
+    "url": "https://charging.666sdk.com/cddh/resource/formal/1_3.mov"
   },  
-{
-    "title": "精选",
-    "url": "https://charging.666sdk.com/json/sub_jingxuan.json"
-  },
   {
-    "title": "神奇",
-    "url": "https://charging.666sdk.com/json/sub_shenqi.json"
-  },
+    "thumb": "https://charging.666sdk.com/cddh/resource/preview/1_4.mov",
+    "decor": "",
+    "url": "https://charging.666sdk.com/cddh/resource/formal/1_4.mov"
+  },  
   {
-    "title": "独特",
-    "url": "https://charging.666sdk.com/json/sub_dute.json"
-  },
+    "thumb": "https://charging.666sdk.com/cddh/resource/preview/1_5.mov",
+    "decor": "",
+    "url": "https://charging.666sdk.com/cddh/resource/formal/1_5.mov"
+  },  
   {
-    "title": "别致",
-    "url": "https://charging.666sdk.com/json/sub_biezhi.json"
-  },
+    "thumb": "https://charging.666sdk.com/cddh/resource/preview/1_6.mov",
+    "decor": "",
+    "url": "https://charging.666sdk.com/cddh/resource/formal/1_6.mov"
+  },  
   {
-    "title": "炫酷",
-    "url": "https://charging.666sdk.com/json/sub_xuanku.json"
-  },
+    "thumb": "https://charging.666sdk.com/cddh/resource/preview/1_7.mov",
+    "decor": "",
+    "url": "https://charging.666sdk.com/cddh/resource/formal/1_7.mov"
+  },  
   {
-    "title": "自然",
-    "url": "https://charging.666sdk.com/json/sub_zirang.json"
-  },
-  {
-    "title": "乐趣",
-    "url": "hhttps://charging.666sdk.com/json/sub_lequ.json"
-  }
+    "thumb": "https://charging.666sdk.com/cddh/resource/preview/1_8.mov",
+    "decor": "",
+    "url": "https://charging.666sdk.com/cddh/resource/formal/1_8.mov"
+  } 
+  
 ]
