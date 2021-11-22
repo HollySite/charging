@@ -1,0 +1,57 @@
+{
+  "freeTrialProducts": [
+    {
+      "id": null,
+      "productName": "¥48.00/周",
+      "price": 48,
+      "vipLevel": null,
+      "sku": "com.charge.screensaver.week",
+      "remark": null,
+      "monthRemark": null,
+      "totalRemark": null,
+      "originalRemark": null,
+      "payRemark": null,
+      "ext1": "<font style='color:white; font-size:12px'>之后¥48.00/周，随时取消。</font>",
+      "ext2": "3天免费试用",
+      "ext3": "<font style='color:#ABABAB; font-size:10px'>郑重申明<br/>1.您将在订阅周期内享受VIP所有的特权服务。<br/>2.您的iTunes账户将在确认订阅付费时才会产生费用。<br/></font>",
+      "ext4": null,
+      "isDefault": true
+    },
+    {
+      "id": null,
+      "productName": "¥78.00/月",
+      "price": 78,
+      "vipLevel": null,
+      "sku": "com.charge.screensaver.month",
+      "remark": null,
+      "monthRemark": null,
+      "totalRemark": null,
+      "originalRemark": null,
+      "payRemark": null,
+       "ext1": "<font style='color:white; font-size:12px'>之后¥78.00/月，随时取消。</font>",
+      "ext2": "3天免费试用",
+      "ext3": "<font style='color:#ABABAB; font-size:10px'>郑重申明<br/>1.您将在订阅周期内享受VIP所有的特权服务。<br/>2.您的iTunes账户将在确认订阅付费时才会产生费用。<br/></font>",
+      "ext4": null,
+      "isDefault": null
+    }
+  ],
+  "topUpProducts": [
+    {
+      "id": null,
+      "productName": "¥198.00/年",
+      "price": null,
+      "vipLevel": null,
+      "sku": "com.charge.screensaver.year",
+      "remark": null,
+      "monthRemark": null,
+      "totalRemark": null,
+      "originalRemark": null,
+      "payRemark": null,
+      "ext1": "<font style='color:white; font-size:12px'><font style='color:#33D1DE'>3天免费试用，</font>之后¥198.00/年</font>",
+      "ext2": "3天免费试用",
+      "ext3": "<font style='color:#ABABAB; font-size:10px'>郑重申明<br/>1.您将在订阅周期内享受VIP所有的特权服务。<br/>2.您的iTunes账户将在确认订阅付费时才会产生费用。<br/></font>",
+      "ext4": null,
+      "isDefault": true
+    }
+  ]
+}
