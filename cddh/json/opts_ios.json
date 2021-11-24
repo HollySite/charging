@@ -1,7 +1,7 @@
 {
   "freeTrialProducts": [
     {
-      "id": 145cd4dd1fdc88e6fe4aebf2b90ad3a6,
+      "id": "145cd4dd1fdc88e6fe4aebf2b90ad3a6",
       "productName": "¥48.00/周",
       "price": 48,
       "vipLevel": null,
@@ -18,7 +18,7 @@
       "isDefault": true
     },
     {
-      "id": 5830b0ee64e654a06be393e35815b468,
+      "id": "5830b0ee64e654a06be393e35815b468",
       "productName": "¥78.00/月",
       "price": 78,
       "vipLevel": null,
@@ -37,7 +37,7 @@
   ],
   "topUpProducts": [
     {
-      "id": 145cd4dd1fdc88e6fe4aebf2b90ad3a6,
+      "id": "145cd4dd1fdc88e6fe4aebf2b90ad3a6",
       "productName": "¥48.00/周",
       "price": 48,
       "vipLevel": null,
@@ -54,7 +54,7 @@
       "isDefault": true
     },
     {
-      "id": 5830b0ee64e654a06be393e35815b468,
+      "id": "5830b0ee64e654a06be393e35815b468",
       "productName": "¥78.00/月",
       "price": 78,
       "vipLevel": null,
@@ -71,7 +71,7 @@
       "isDefault": null
     },
     {
-      "id": 1589cac53b1ab6362df06347047dd468,
+      "id": "1589cac53b1ab6362df06347047dd468",
       "productName": "¥198.00/年",
       "price": null,
       "vipLevel": null,
