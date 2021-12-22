@@ -48,7 +48,7 @@
       "ext1": "<div style=‘text-align:center’> <div style=‘font-weight:700; font-size:250%; margin:10 0; text-align:center‘>订阅后全部功能无限制</div>     <div style=‘width: 50%‘>         <div style=‘font-size:100%; margin: 5 0‘>☑️ 解锁所有充电动画</div>         <div style=‘font-size:100%; margin: 5 0‘>☑️ 自定义您自己的动画</div>         <div style=‘font-size:100%; margin: 5 0‘>☑️ 每周更新动画</div>     </br>      <div style=‘color:#FFF01B; font-size:120%; margin: 5 0‘>快试试炫酷的充电动画吧</div>      <div style=‘color:#fff; font-size:100%‘>年订阅，$30.99/周，随时取消</div>    </div>",
       "ext2": "<b><font color=‘#333333‘ size=‘5‘>开启3天免费试用</font></b>",
       "ext3": "<b><font color=‘#E13DE1‘ size=‘5‘>已开启免费试用</font></b>",
-      "ext4": "<b><font color=‘#000‘ size=‘6‘>继续</font></b>",
+      "ext4": "<b><font color=‘#000‘ size=‘6‘>继续</font></b>"
     }
   ]
 }
