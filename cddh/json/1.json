@@ -2,14 +2,16 @@
     "thumb": "https://charging.666sdk.com/cddh/resource/video/preview/1_1.mp4",
     "background": "https://charging.666sdk.com/cddh/resource/video/preview/1_1.jpg",
     "decor": "",
-    "url": "https://charging.666sdk.com/cddh/resource/video/formal/1_1.mp4"
+    "url": "https://charging.666sdk.com/cddh/resource/video/formal/1_1.mp4",
+    "status": "Hot"
   }
 ,  
   {
     "thumb": "https://charging.666sdk.com/cddh/resource/video/preview/1_2.mp4",
     "background": "https://charging.666sdk.com/cddh/resource/video/preview/1_2.jpg",
     "decor": "",
-    "url": "https://charging.666sdk.com/cddh/resource/video/formal/1_2.mp4"
+    "url": "https://charging.666sdk.com/cddh/resource/video/formal/1_2.mp4",
+    "status": "New"
   }
 ,  
   {
