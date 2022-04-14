@@ -1,13 +1,31 @@
 {
+    "notice":"扣数字有惊喜，礼物惊喜不断",
     "keywordtoSVGA":{
         "1":"1",
-        "666":"2"
+        "2":"2",
+        "3":"3",
+        "4":"4",
+        "5":"5",
+        "6":"6",
+        "7":"7",
+        "8":"11",
+        "9":"9",
+        "10":"10",
+        "11":"12",
+        "666":"13",
+        "888":"14",
+        "222":"15",
+        "333":"16",
+        "555":"17",
+        "233":"18",
+        "999":"19",
+        "111":"20"
     },
     "gifttoSVGA":{
-        "https://p9-webcast.douyinpic.com/img/webcast/0ea40b8376ef8157791b928a339ed9c9~tplv-obj.png":"1",
-        "https://p6-webcast.douyinpic.com/img/webcast/a29d6cdc0abb7286fdd403915196eaa7.png~tplv-obj.png":"2",
-        "https://p3-webcast.douyinpic.com/img/webcast/200ebc1c31e63f4955d956938485befe.png~tplv-obj.png":"3",
-        "others":"1"
+        "https://p9-webcast.douyinpic.com/img/webcast/0ea40b8376ef8157791b928a339ed9c9~tplv-obj.png":"21",
+        "https://p6-webcast.douyinpic.com/img/webcast/a29d6cdc0abb7286fdd403915196eaa7.png~tplv-obj.png":"22",
+        "https://p3-webcast.douyinpic.com/img/webcast/200ebc1c31e63f4955d956938485befe.png~tplv-obj.png":"23",
+        "others":"21,22,23,24,25,26,27"
     },
     "giftname":{
         "https://p9-webcast.douyinpic.com/img/webcast/0ea40b8376ef8157791b928a339ed9c9~tplv-obj.png":"小心心",
@@ -40,7 +58,7 @@
         "人间自有真情在，点点红心都是爱，天若有情天亦老，给个关注好不好？万里长城永不倒，长城不倒我不到！",
         "关注没有点，感情走不远，灯牌没有上，永远在闲逛，为了不闲逛，灯牌上一上！",
         "上方点点关注，下方点点赞，加入我的粉丝团",
-        "主播人好/帅/美，性格好，关注就像捡到宝",
+        "主播人好美，性格好，关注就像捡到宝",
         "关注主播不迷路，主播绝对没套路",
         "关注走一走，主播爱你到永久。",
         "点点关注不费力，主播陪你看大戏",
