@@ -1,25 +1,19 @@
 {
-    "keywordtoSVGA":[
-        {
-            "keyword":"1",
-            "svgafile":"1.svga",
-            "audiofile":"1.mp3"
-        },
-        {
-            "keyword":"2",
-            "svgafile":"2.svga",
-            "audiofile":"2.mp3"
-        },
-        {
-            "keyword":"666",
-            "svgafile":"3.svga",
-            "audiofile":"3.mp3"
-        }
-    ],
+    "keywordtoSVGA":{
+        "1":"1",
+        "666":"2"
+    },
+    "gifttoSVGA":{
+        "https://p9-webcast.douyinpic.com/img/webcast/0ea40b8376ef8157791b928a339ed9c9~tplv-obj.png":"1",
+        "https://p6-webcast.douyinpic.com/img/webcast/a29d6cdc0abb7286fdd403915196eaa7.png~tplv-obj.png":"2",
+        "https://p3-webcast.douyinpic.com/img/webcast/200ebc1c31e63f4955d956938485befe.png~tplv-obj.png":"3",
+        "others":"1"
+    },
     "giftname":{
         "https://p9-webcast.douyinpic.com/img/webcast/0ea40b8376ef8157791b928a339ed9c9~tplv-obj.png":"小心心",
         "https://p6-webcast.douyinpic.com/img/webcast/a29d6cdc0abb7286fdd403915196eaa7.png~tplv-obj.png":"玫瑰花",
-        "https://p3-webcast.douyinpic.com/img/webcast/200ebc1c31e63f4955d956938485befe.png~tplv-obj.png":"回忆西堤"
+        "https://p3-webcast.douyinpic.com/img/webcast/200ebc1c31e63f4955d956938485befe.png~tplv-obj.png":"回忆西堤",
+        "others":"礼物"
     },
     "replymessage":[
         "username%说message%",
