@@ -21,8 +21,14 @@
         "https://p6-webcast.douyinpic.com/img/webcast/a29d6cdc0abb7286fdd403915196eaa7.png~tplv-obj.png":"玫瑰花",
         "https://p3-webcast.douyinpic.com/img/webcast/200ebc1c31e63f4955d956938485befe.png~tplv-obj.png":"回忆西堤"
     },
-    "replymessage":"username%说message%",
-    "tipmessage":"感谢username%送的number%个giftname%",
+    "replymessage":[
+        "username%说message%",
+        "username%说了message%"
+    ],
+    "tipmessage":[
+        "感谢username%送的number%个giftname%",
+        "感谢username%送的礼物，祝老板好运一直有"
+    ],
     "newEntrymessage":[
         "欢迎username%进入直播间。"
     ],
